@@ -61,9 +61,10 @@ A wide range of metadata is provided for the training data. The most directly re
 
 ### Setting up conda env
 
-``` conda create --name birdclef python=3.9 ``` <br />
+``` conda create --name birdclef python=3.7 -y ``` <br />
 ``` conda activate birdclef ``` <br />
-``` conda install pandas numpy torch torchvision torchaudio colorednoise librosa sklearn ``` <br />
+``` conda install pytorch torchvision cudatoolkit=10.2 -c pytorch ```
+``` conda colorednoise librosa sklearn  ``` <br />
 
 ### References
 https://www.kaggle.com/stefankahl/birdclef2021-sample-submission <br />
