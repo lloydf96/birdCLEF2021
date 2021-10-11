@@ -63,7 +63,7 @@ A wide range of metadata is provided for the training data. The most directly re
 
 ``` conda create --name birdclef python=3.7 -y ``` <br />
 ``` conda activate birdclef ``` <br />
-``` conda install pytorch torchvision cudatoolkit=10.2 -c pytorch ```
+``` conda install pytorch torchvision cudatoolkit=10.2 -c pytorch ``` <br />
 ``` conda colorednoise librosa sklearn  ``` <br />
 
 ### References
