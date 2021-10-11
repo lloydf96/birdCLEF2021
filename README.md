@@ -66,9 +66,9 @@ A wide range of metadata is provided for the training data. The most directly re
 ``` conda install pandas numpy torch torchvision torchaudio colorednoise librosa sklearn ```
 
 ### References
-https://www.kaggle.com/stefankahl/birdclef2021-sample-submission
-https://www.kaggle.com/hidehisaarai1213/pytorch-training-birdclef2021-starter
-https://www.kaggle.com/hidehisaarai1213/birdclef2021-infer-between-chunk
+https://www.kaggle.com/stefankahl/birdclef2021-sample-submission \n
+https://www.kaggle.com/hidehisaarai1213/pytorch-training-birdclef2021-starter \n
+https://www.kaggle.com/hidehisaarai1213/birdclef2021-infer-between-chunk \n
 https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection
 
 
