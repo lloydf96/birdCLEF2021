@@ -1,6 +1,6 @@
 # birdCLEF2021
 
-The task involves identifying 397 different bird species vocalizations in audio clips.
+The task involves identifying 397 different bird species vocalizations in audio clips.<br />
 The solution employed involves:
 1. Training an ensemble of CNN model and ResNets. 
 2. Augmented audio data by adding white and pink noise and overlaying other bird vocalizations at a subdued amplitude. 
@@ -61,14 +61,14 @@ A wide range of metadata is provided for the training data. The most directly re
 
 ### Setting up conda env
 
-``` conda create --name birdclef python=3.9 ```
-``` conda activate birdclef ```
-``` conda install pandas numpy torch torchvision torchaudio colorednoise librosa sklearn ```
+``` conda create --name birdclef python=3.9 ``` <br />
+``` conda activate birdclef ``` <br />
+``` conda install pandas numpy torch torchvision torchaudio colorednoise librosa sklearn ``` <br />
 
 ### References
-https://www.kaggle.com/stefankahl/birdclef2021-sample-submission \n
-https://www.kaggle.com/hidehisaarai1213/pytorch-training-birdclef2021-starter \n
-https://www.kaggle.com/hidehisaarai1213/birdclef2021-infer-between-chunk \n
+https://www.kaggle.com/stefankahl/birdclef2021-sample-submission <br />
+https://www.kaggle.com/hidehisaarai1213/pytorch-training-birdclef2021-starter <br />
+https://www.kaggle.com/hidehisaarai1213/birdclef2021-infer-between-chunk <br />
 https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection
 
 
