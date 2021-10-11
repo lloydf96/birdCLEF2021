@@ -16,19 +16,23 @@ This folder also contains text files with the name and approximate coordinates o
 Only the first three rows are available for download; the full test.csv is in the hidden test set.
 ```
 row_id
-``` : ID code for the row.
+``` 
+: ID code for the row.
 
 ```
 site 
-```: Site ID.
+```
+: Site ID.
 
 ``` 
 seconds 
-```: the second ending the time window
+```
+: the second ending the time window
 
 ```
 audio_id 
-```: ID code for the audio file.
+```
+: ID code for the audio file.
 
 #### train_metadata.csv -
 A wide range of metadata is provided for the training data. The most directly relevant fields are:
